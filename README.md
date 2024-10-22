@@ -2,16 +2,16 @@
 
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/71e54297-5572-45a5-93e6-a95654cf2959">
 
-Hosted link: https://santosh-2003-sahoo.github.io/App2-Weather-app/
+Hosted link: https://github.com/yashasvi129/App---Weather-Monitoring.git
 
 
 ## Overview
 
-This project is designed to retrieve weather data from the OpenWeatherMap API at configurable intervals, convert temperature values based on user preference, and provide daily weather summaries including additional parameters like humidity and wind speed. The system is built to be robust, easy to set up, and extendable.
+This project provides a system to fetch weather data from the OpenWeatherMap API at customizable intervals, convert temperature units according to user preferences, and deliver daily weather summaries, including additional metrics like humidity and wind speed. It is designed to be easy to set up, robust, and scalable for future improvements.
 
 ## Features
 
-- **System Setup:** Initializes and connects to the OpenWeatherMap API using a valid API key.
+- **System Setup:** Connects to the OpenWeatherMap API using a valid API key.
 - **Data Retrieval:** Simulates API calls at configurable intervals to retrieve and parse weather data for specified locations.
 - **Temperature Conversion:** Converts temperature values from Kelvin to Celsius or Fahrenheit based on user preference.
 - **Daily Weather Summary:** Simulates weather updates over several days and calculates average, maximum, minimum temperatures, and dominant weather conditions.
@@ -53,11 +53,11 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
    ```bash
    npm install http-server -g
-   http-server -p 8080**
+   http-server -p 8080
    ```
 
 ## Running Tests
 
 You can add and run tests to ensure everything is working correctly.
 ```
-created bt: santosh sahoo
+created by: yashasvi garg
